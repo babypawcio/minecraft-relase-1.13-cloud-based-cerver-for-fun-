@@ -1,4 +1,4 @@
-# minecraft-relase-1.13-cloud-based-server-for-fun-
+# minecraft relase 1.13 cloud based server (for fun)
 google cloud/linux debian based minecraft server (just for fun)
 
 -------------------------------------------------------------------------
